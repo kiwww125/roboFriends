@@ -55,8 +55,8 @@ export const robots = [
   },
   {
     id: 10,
-    name: 'Clementina DuBuque',
-    username: 'Moriah.Stanton',
-    email: 'Rey.Padberg@karina.biz'
+    name: 'Jeyme Moon',
+    username: 'Chaewon Moon',
+    email: 'TopSecret@gmail.com'
   }
 ];
